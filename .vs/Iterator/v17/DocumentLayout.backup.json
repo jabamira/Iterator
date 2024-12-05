@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artem\\Desktop\\C#\\Iterator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6C52B4-C5E2-43ED-8C71-81952F2D0A6A}|Iterator\\Iterator.csproj|c:\\users\\artem\\desktop\\c#\\iterator\\iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6C52B4-C5E2-43ED-8C71-81952F2D0A6A}|Iterator\\Iterator.csproj|solutionrelative:iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6C52B4-C5E2-43ED-8C71-81952F2D0A6A}|Iterator\\Iterator.csproj|c:\\users\\artem\\desktop\\c#\\iterator\\iterator\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6C52B4-C5E2-43ED-8C71-81952F2D0A6A}|Iterator\\Iterator.csproj|solutionrelative:iterator\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6C52B4-C5E2-43ED-8C71-81952F2D0A6A}|Iterator\\Iterator.csproj|c:\\users\\artem\\desktop\\c#\\iterator\\iterator\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6C52B4-C5E2-43ED-8C71-81952F2D0A6A}|Iterator\\Iterator.csproj|solutionrelative:iterator\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\C#\\Iterator\\Iterator\\Library.cs",
+              "RelativeDocumentMoniker": "Iterator\\Library.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\C#\\Iterator\\Iterator\\Library.cs",
+              "RelativeToolTip": "Iterator\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:14:15.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\C#\\Iterator\\Iterator\\Book.cs",
+              "RelativeDocumentMoniker": "Iterator\\Book.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\C#\\Iterator\\Iterator\\Book.cs",
+              "RelativeToolTip": "Iterator\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:13:46.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\C#\\Iterator\\Iterator\\Program.cs",
+              "RelativeDocumentMoniker": "Iterator\\Program.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\C#\\Iterator\\Iterator\\Program.cs*",
+              "RelativeToolTip": "Iterator\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:12:51.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
